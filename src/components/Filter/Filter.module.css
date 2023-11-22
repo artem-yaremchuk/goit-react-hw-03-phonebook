@@ -1,0 +1,21 @@
+.filterForm {
+    display: flex;
+    justify-content: center;
+}
+
+.filterLabel {
+    font-weight: 600;
+    color: #434455;
+}
+
+.filterInput {
+    height: 20px;
+    margin-left: 20px;
+    border: 1px solid #d9dbde;
+    border-radius: 10px;
+}
+
+.filterInput:hover,
+.filterInput:focus {
+    border: 1px solid #959595;
+}
